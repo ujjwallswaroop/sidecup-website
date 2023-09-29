@@ -192,15 +192,15 @@ video{
 }
 
 #card1{
-    background-image: url(/Assests/card1.avif);
+    background-image: url(./Assests/card1.avif);
 }
 
 #card2{
-    background-image: url(/Assests/card2.webp);
+    background-image: url(./Assests/card2.webp);
 }
 
 #card3{
-    background-image: url(/Assests/card3.avif);
+    background-image: url(./Assests/card3.avif);
 }
 
 .overlay{
